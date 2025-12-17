@@ -3,7 +3,7 @@
 </div><br/><br/>
 
 <div>
-  <img align="right" width="40%" src="codingimg.png">
+  <img align="right" width="20%" src="codingimg.png">
 </div>
 
 <p><b>Hello, I'm Ameen</b> </p>
