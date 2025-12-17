@@ -25,7 +25,9 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
-<h4 align="left">- Frontend: HTML, CSS, JavaScript, React</h4>
+<ul align="left">
+  <li>Frontend: HTML, CSS, JavaScript, React</li>
+</ul>
 <h3 align="left">CURRENTLY LEARNING</h3>
 <ul align="left">
   <li>Backend: Node.js, Express</li>
