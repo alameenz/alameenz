@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img src="githubbanner.png" width="100%" alt="Profile Banner" />
+</div>
+Hello, I'm Ameen 👨‍💻
 
-<!--
-**alameenz/alameenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently building full-stack projects
+- 🌱 Learning system design & backend optimization
+- 🧠 Interested in performance, clean code, and security
+- 📫 Reach me at: alameenhussain2003@gmail.com
 
-Here are some ideas to get you started:
+ 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+  
+  CURRENTLY LEARNING
+- Backend: Node.js, Express
+- Database: MongoDB, MySQL
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
